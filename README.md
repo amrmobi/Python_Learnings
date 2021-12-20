@@ -5,5 +5,5 @@
 Just a beginner diary of learning Pytho
 
 
-by Amar
+
 
